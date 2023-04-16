@@ -6,7 +6,7 @@
     font-family: 'poppins', sans-serif;
 }
 body {
-    overflow: hidden;
+    overflow: visible;
 }
 .container {
     width: 100%;
